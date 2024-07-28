@@ -1,0 +1,15 @@
+crt0.o: crt0.S \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config_cmd_defaults.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config_defaults.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/configs/gm8136.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/arch-gm8136/gm8136.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/arch-gm8136/ahbdma.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/arch-gm8136/nandc_flash.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/arch-gm8136/spi020.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config_cmd_default.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/config.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config_fallbacks.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config_uncmd_spl.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm-offsets.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/generated/generic-asm-offsets.h

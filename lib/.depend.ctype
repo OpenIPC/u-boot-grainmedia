@@ -1,0 +1,2 @@
+ctype.o: ctype.c \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/linux/ctype.h
