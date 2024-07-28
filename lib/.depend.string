@@ -1,0 +1,24 @@
+string.o: string.c \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/linux/types.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/linux/config.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/linux/posix_types.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/linux/stddef.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/posix_types.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/types.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/linux/string.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/string.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config_cmd_defaults.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config_defaults.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/configs/gm8136.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/arch-gm8136/gm8136.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/arch-gm8136/ahbdma.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/arch-gm8136/nandc_flash.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/arch-gm8136/spi020.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config_cmd_default.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/asm/config.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config_fallbacks.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/config_uncmd_spl.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/linux/linux_string.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/linux/ctype.h \
+ /home/user/u-boot-2013.01_2015-01-09/u-boot-2013.01/include/malloc.h
